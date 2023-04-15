@@ -4,7 +4,6 @@
     body {
         margin: 0 auto;
         text-align: center;
-        
     }
     img {
     margin: 0 auto;
@@ -26,14 +25,7 @@
 
     }
 
-
-
-
-
-    
-    
-    
-        /*tablet layout*/
+    /*tablet layout*/
     @media (min-width:768px) {
     .main-nav {
     display: flex;
