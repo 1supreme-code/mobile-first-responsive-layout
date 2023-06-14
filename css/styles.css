@@ -7,7 +7,6 @@ body {
 display: flex;
 flex-direction: column;
 min-height: 100vh;
-font-family: 'Roboto', sans-serif;
 margin: 0 auto;
 max-width: 1024px;
 }
@@ -22,7 +21,6 @@ color: #fff;
 }
 
 nav {
-    font-family: "Roboto", Arial, Verdana;
     font-weight: 400;
     letter-spacing: .05em;
     background-color: #829356;
@@ -56,7 +54,7 @@ nav {
     max-width: 1100px;
     padding: 10px;
     margin: 0 auto;
-    font-family: 'Roboto', sans-serif;
+  
   }
   .col {
     margin: 10px;
@@ -121,7 +119,7 @@ font-family: 'Josefin Sans', sans-serif;
   margin-top: auto;
   padding: 20px 20px;
 }
-.contact {
+#contact {
 text-align: center;
 }
 
